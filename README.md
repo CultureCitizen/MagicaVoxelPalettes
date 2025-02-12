@@ -19,7 +19,7 @@ This is the most intuitive way I have found to organize all posible colors.
 ### HSL_2 
 This is a palette with 15 colors , 8 lighting levels and 2 gray levels plus 16 colors for grayscale. 
 
-[[hsl_2.png]]
+[a link](https://github.com/CultureCitizen/MagicaVoxelPalettes/blob/main/hsl_2.png)
 
 ### HSL_3
 This is a palette with 10 colors , 8 lighting levels and 3 gray lavels plus 16 colors for grayscale. 
